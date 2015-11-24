@@ -12,7 +12,7 @@ class ma():
 		ma.board = ma.board+1
 
 	def display():
-		print(chr(ma.board))
+		print(chr(ma.board),end="")
 
 	def read():
 		ma.board = ord(input("input:")[0])
@@ -40,4 +40,4 @@ while loop:
 	i = i + 1
 	if i == len(bsFile):
 		loop = False
-
+		print("\n")
