@@ -1,7 +1,7 @@
 # small
 A minimal, elegant and small programming language for the 21st century.
 
-##install
+##Install
 git clone the contents then do this to make it an executable
 
         chmod +x ~/pysmall/small.py  (or whatever your path is)
@@ -13,7 +13,7 @@ That way you can run it like this
         instead of
         python small.py example.sl
 
-##syntax
+##Syntax
 small uses only 3 commands.
 
     "+", "," and "."
