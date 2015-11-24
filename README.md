@@ -3,13 +3,13 @@ A minimal, elegant and small programming language for the 21st century.
 
 ##install
 git clone the contents then do this to make it an executable
-
-        chmod +x ~/small/small  (or whatever your path is)
+        cp ~/pysmall/small.py /usr/bin/small
+        chmod +x ~/pysmall/small  (or whatever your path is)
 That way you can run it like this
 
-        ./small example.sl
+        small example.sl
         instead of
-        python small example.sl
+        python small.py example.sl
 
 ##syntax
 small uses only 3 commands.
