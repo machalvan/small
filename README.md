@@ -4,7 +4,7 @@ A minimal, elegant and small programming language for the 21st century.
 ##install
 git clone the contents then do this to make it an executable
 
-        chmod +x ~/pysmall/small  (or whatever your path is)
+        chmod +x ~/pysmall/small.py  (or whatever your path is)
         cp ~/pysmall/small.py /usr/bin/small
 
 That way you can run it like this
