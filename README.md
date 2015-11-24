@@ -1,5 +1,5 @@
 # small
-A minimal, elgant and small programming language for the 21st century.
+A minimal, elegant and small programming language for the 21st century.
 
 ##commands
 small uses only 3 commands.
