@@ -1,5 +1,5 @@
 # small
-A minimal, elegant and small programming language for the 21st century.
+A minimal, elegant and small programming language for the 22st century.
 
 ##Install
 git clone the contents then do this to make it an executable and  put it in your path
