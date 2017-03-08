@@ -19,7 +19,6 @@ small uses only 3 commands.
     "+", "," and "."
 
 "+" is for addition.
-"," is for a 1 char input.
 "." is for an ascii print of the number.
 
 ##Hello World
