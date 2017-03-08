@@ -15,7 +15,7 @@ class ma():
 		print(chr(ma.board),end="")
 
 	def read():
-		ma.board = ord(input("")[0])
+		pass #read has been deprecated.
 
 bsFile = open(sys.argv[1], "r")
 bsFile = ''.join(list(bsFile))
