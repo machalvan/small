@@ -14,9 +14,9 @@ That way you can run it like this
         python small.py example.sl
 
 ##Syntax
-small uses only 3 commands.
+small uses 2 commands.
 
-    "+", "," and "."
+    "+" and "."
 
 "+" is for addition.
 "." is for an ascii print of the number.
