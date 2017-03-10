@@ -1,17 +1,8 @@
 # small
 A minimal, elegant and small programming language for the 22st century.
 
-##Install
-git clone the contents then do this to make it an executable and  put it in your path
-
-        chmod +x ~/pysmall/small.py  (or whatever your path is)
-        cp ~/pysmall/small.py /usr/bin/small
-
-That way you can run it like this
-
-        small example.sl
-        instead of
-        python small.py example.sl
+##Try it online!
+https://shitpost.men/small/
 
 ##Syntax
 small uses 2 commands.
