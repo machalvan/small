@@ -1,4 +1,15 @@
 #!/usr/bin/env python
+'''
+How to install:
+        chmod +x ~/pysmall/small.py  (or whatever your path is)
+        cp ~/pysmall/small.py /usr/bin/small
+
+That way you can run it like this
+
+        small example.sl
+        instead of
+        python small.py example.sl
+'''
 import sys
 
 class mc:
